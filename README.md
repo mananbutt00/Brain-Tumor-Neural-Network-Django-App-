@@ -2,7 +2,7 @@
 
 
 ## Demo Screenshots
-![Upload Page](screenshots/upload_page.png)
+![Upload Page](screenshot/upload_page.png)
 ## Description
 This project is a web application that allows users to upload brain MRI images and detect whether the scan shows a tumor. The application uses a Convolutional Neural Network (CNN) trained on a brain MRI dataset to classify images into four categories:
 
